@@ -1,7 +1,5 @@
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=tejkiranyenugunti-spec&label=Profile%20Views&color=0e75b6&style=flat)
-
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 # Hi, I'm Tej Kiran Yenugunti
@@ -18,6 +16,7 @@
 
 I'm a **Backend & AI Engineer** with **2 years of experience** building scalable APIs, distributed systems, and AI-powered applications. I've worked at **Deloitte USI** and **Carelon Global Solutions (Elevance Health)**, delivering production-grade systems and LLM integrations.
 
+- Currently pursuing Master's in Software Engineering at San Jose State University (SJSU)
 - Currently building AI agents, RAG pipelines and LLM-powered apps with LangChain and LangGraph
 - Passionate about making machines smarter, one model at a time
 - Cloud-native mindset: AWS, Docker, Kubernetes and observability with Prometheus and Grafana
