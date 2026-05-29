@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineer;LLM+%7C+RAG+%7C+AI+Agents+Builder;Python+%7C+Go+%7C+Java+%7C+TypeScript;Turning+Ideas+into+Intelligent+Systems)](https://git.io/typing-svg)
 
-📍 San Jose, California
+**📍 San Jose, California**
 
 </div>
 
@@ -18,10 +18,10 @@
 
 I'm a **Backend & AI Engineer** with **2 years of experience** building scalable APIs, distributed systems, and AI-powered applications. I've worked at **Deloitte USI** and **Carelon Global Solutions (Elevance Health)**, delivering production-grade systems and LLM integrations.
 
-- 🤖 Building AI agents, RAG pipelines & LLM-powered apps with LangChain & LangGraph
-- - 🧠 Passionate about making machines smarter — one model at a time
-  - - 🌱 Always learning, always shipping
-    - - ☁️ Cloud-native mindset: AWS, Docker, Kubernetes & observability with Prometheus + Grafana
+- Building AI agents, RAG pipelines & LLM-powered apps with LangChain & LangGraph 🤖
+- - Passionate about making machines smarter — one model at a time 🧠
+  - - Cloud-native mindset: AWS, Docker, Kubernetes & observability with Prometheus + Grafana ☁️
+    - - Always learning, always shipping 🌱
      
       - ---
 
@@ -98,7 +98,7 @@ I'm a **Backend & AI Engineer** with **2 years of experience** building scalable
 
       ## Let's Connect!
 
-      I'm always open to interesting conversations, collaborations, and opportunities. Feel free to reach out!
+      I'm always open to interesting conversations, collaborations, and new opportunities. Feel free to reach out!
 
       [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejkiran-yenugunti)
       [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejkiran.yenugunti@gmail.com)
