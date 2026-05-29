@@ -18,12 +18,10 @@
 
 I'm a **Backend & AI Engineer** with **2 years of experience** building scalable APIs, distributed systems, and AI-powered applications. I've worked at **Deloitte USI** and **Carelon Global Solutions (Elevance Health)**, delivering production-grade systems and LLM integrations.
 
-<ul>
-    <li>Building AI agents, RAG pipelines &amp; LLM-powered apps with LangChain &amp; LangGraph 🤖</li>li>
-  <li>Passionate about making machines smarter — one model at a time 🧠</li>li>
-  <li>Cloud-native mindset: AWS, Docker, Kubernetes &amp; observability with Prometheus + Grafana ☁️</li>li>
-  <li>Always learning, always shipping 🌱</li>li>
-</ul>ul>
+- Currently building AI agents, RAG pipelines and LLM-powered apps with LangChain and LangGraph
+- Passionate about making machines smarter, one model at a time
+- Cloud-native mindset: AWS, Docker, Kubernetes and observability with Prometheus and Grafana
+- Always learning, always shipping
 
 ---
 
@@ -75,44 +73,42 @@ I'm a **Backend & AI Engineer** with **2 years of experience** building scalable
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tejkiranyenugunti-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejkiranyenugunti-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tejkiranyenugunti-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejkiranyenugunti-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 
-  </div>
+</div>
 
-  <div align="center">
+<div align="center">
 
-    <img src="https://streak-stats.demolab.com/?user=tejkiranyenugunti-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=tejkiranyenugunti-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-    </div>
+</div>
 
-    ---
+---
 
-    ## GitHub Trophies
+## GitHub Trophies
 
-    <div align="center">
+<div align="center">
 
-    <img src="https://github-profile-trophy.vercel.app/?username=tejkiranyenugunti-spec&theme=onedark&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tejkiranyenugunti-spec&theme=onedark&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies"/>
 
-    </div>
+</div>
 
-    ---
+---
 
-    ## Let's Connect!
+## Let's Connect!
 
-    I'm always open to interesting conversations, collaborations, and new opportunities. Feel free to reach out!
+I'm always open to interesting conversations, collaborations, and new opportunities. Feel free to reach out!
 
-    [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejkiran-yenugunti)
-    [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejkiran.yenugunti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejkiran-yenugunti)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejkiran.yenugunti@gmail.com)
 
-    ---
+---
 
-    <div align="center">
+<div align="center">
 
-    *"Building the future, one API and one model at a time."*
+*"Building the future, one API and one model at a time."*
 
-    **Thanks for visiting my profile! Have a great day!**
+**Thanks for visiting my profile! Have a great day!**
 
-    </div>
-</li></li>
-</ul>
+</div>
