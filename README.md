@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-# Hi, I'm Tej Kiran Yenugunti
+# Hi, I am Tej Kiran Yenugunti
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineer;LLM+%7C+RAG+%7C+AI+Agents+Builder;Python+%7C+Go+%7C+Java+%7C+TypeScript;Turning+Ideas+into+Intelligent+Systems)](https://git.io/typing-svg)
 
